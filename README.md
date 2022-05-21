@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Mr.Bjarki
+- I’m interested in Cyber security, Web developing (HTML, CSS),  OS administration, Linux administration,
+- Windows administration, SEO optimalization, MS office, Virtualization
+- I’m currently learning Cyber security. I would appreciate any help :)
+- ✨Contact me: bendik.jiri@pm.me
